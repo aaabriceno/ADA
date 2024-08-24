@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anthony\\ADA_laptop\\Semana_1\\vector_templates\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1D85A17-5A20-48E6-9A7D-37A81C81B562}|vector_templates.vcxproj|C:\\Users\\anthony\\ADA_laptop\\Semana_1\\vector_templates\\vector_templates.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1D85A17-5A20-48E6-9A7D-37A81C81B562}|vector_templates.vcxproj|solutionrelative:vector_templates.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vector_templates.cpp",
+              "DocumentMoniker": "C:\\Users\\anthony\\ADA_laptop\\Semana_1\\vector_templates\\vector_templates.cpp",
+              "RelativeDocumentMoniker": "vector_templates.cpp",
+              "ToolTip": "C:\\Users\\anthony\\ADA_laptop\\Semana_1\\vector_templates\\vector_templates.cpp",
+              "RelativeToolTip": "vector_templates.cpp",
+              "ViewState": "AQIAAEAAAAAAAAAAAAA1wFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-24T01:49:52.596Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

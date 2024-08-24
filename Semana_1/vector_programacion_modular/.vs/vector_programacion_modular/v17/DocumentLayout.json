@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anthony\\ADA_laptop\\Semana_1\\vector_programacion_modular\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{453C9CE1-784D-4E75-A5C9-5B93986B104A}|vector_programacion_modular.vcxproj|C:\\Users\\anthony\\ADA_laptop\\Semana_1\\vector_programacion_modular\\vector_programacion_modular.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{453C9CE1-784D-4E75-A5C9-5B93986B104A}|vector_programacion_modular.vcxproj|solutionrelative:vector_programacion_modular.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vector_programacion_modular.cpp",
+              "DocumentMoniker": "C:\\Users\\anthony\\ADA_laptop\\Semana_1\\vector_programacion_modular\\vector_programacion_modular.cpp",
+              "RelativeDocumentMoniker": "vector_programacion_modular.cpp",
+              "ToolTip": "C:\\Users\\anthony\\ADA_laptop\\Semana_1\\vector_programacion_modular\\vector_programacion_modular.cpp",
+              "RelativeToolTip": "vector_programacion_modular.cpp",
+              "ViewState": "AQIAAE0AAAAAAAAAAIA2wDsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-24T01:25:18.519Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
