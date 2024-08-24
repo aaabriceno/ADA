@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PC\\ADA\\Semana_1\\Calculadora_practica\\",
+  "WorkspaceRootPath": "C:\\Users\\anthony\\ADA_laptop\\Semana_1\\Calculadora_practica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8C306A4-C59F-4C8B-A4E4-33451E5A139A}|Calculadora_practica.vcxproj|C:\\Users\\PC\\ADA\\Semana_1\\Calculadora_practica\\Calculadora_practica.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{C8C306A4-C59F-4C8B-A4E4-33451E5A139A}|Calculadora_practica.vcxproj|C:\\Users\\anthony\\ADA_laptop\\Semana_1\\Calculadora_practica\\Calculadora_practica.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C8C306A4-C59F-4C8B-A4E4-33451E5A139A}|Calculadora_practica.vcxproj|solutionrelative:Calculadora_practica.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,21 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Calculadora_practica.cpp",
-              "DocumentMoniker": "C:\\Users\\PC\\ADA\\Semana_1\\Calculadora_practica\\Calculadora_practica.cpp",
+              "DocumentMoniker": "C:\\Users\\anthony\\ADA_laptop\\Semana_1\\Calculadora_practica\\Calculadora_practica.cpp",
               "RelativeDocumentMoniker": "Calculadora_practica.cpp",
-              "ToolTip": "C:\\Users\\PC\\ADA\\Semana_1\\Calculadora_practica\\Calculadora_practica.cpp",
+              "ToolTip": "C:\\Users\\anthony\\ADA_laptop\\Semana_1\\Calculadora_practica\\Calculadora_practica.cpp",
               "RelativeToolTip": "Calculadora_practica.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "ViewState": "AQIAADoAAAAAAAAAAIA2wEcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-23T23:27:43.424Z",
               "EditorCaption": ""
