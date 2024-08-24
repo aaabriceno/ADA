@@ -71,10 +71,10 @@ float Division(float a, float b) {
     }
 }
 
-typedef float (*lpfnOperation)(float, float);
+typedef float (*Operation)(float, float);
 
 int main() {
-    lpfnOperation vpf[4] = {&Adicion, &Sustraccion, &Multiplicacion, &Division};
+    Operation vpf[4] = {&Adicion, &Sustraccion, &Multiplicacion, &Division};
 
     float a, b, c;
     int opt;
