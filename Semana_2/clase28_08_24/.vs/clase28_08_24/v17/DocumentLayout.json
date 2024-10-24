@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anthony\\ADA_laptop\\Semana_2\\clase28_08_24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECB6BAB7-C003-42CD-8DA6-02D2DF8E9ED7}|clase28_08_24.vcxproj|C:\\Users\\anthony\\ADA_laptop\\Semana_2\\clase28_08_24\\clase28_08_24.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECB6BAB7-C003-42CD-8DA6-02D2DF8E9ED7}|clase28_08_24.vcxproj|solutionrelative:clase28_08_24.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clase28_08_24.cpp",
+              "DocumentMoniker": "C:\\Users\\anthony\\ADA_laptop\\Semana_2\\clase28_08_24\\clase28_08_24.cpp",
+              "RelativeDocumentMoniker": "clase28_08_24.cpp",
+              "ToolTip": "C:\\Users\\anthony\\ADA_laptop\\Semana_2\\clase28_08_24\\clase28_08_24.cpp",
+              "RelativeToolTip": "clase28_08_24.cpp",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwBQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-29T01:28:40.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
