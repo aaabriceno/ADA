@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anthony\\ADA_laptop\\Ejercicios_II_parte\\quick_sort_descendente_ejercicio1_d\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8F529C-15BB-4832-8FE8-624445AD937C}|quick_sort_descendente_ejercicio1_d.vcxproj|C:\\Users\\anthony\\ADA_laptop\\Ejercicios_II_parte\\quick_sort_descendente_ejercicio1_d\\quick_sort_descendente_ejercicio1_d.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF8F529C-15BB-4832-8FE8-624445AD937C}|quick_sort_descendente_ejercicio1_d.vcxproj|solutionrelative:quick_sort_descendente_ejercicio1_d.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "quick_sort_descendente_ejercicio1_d.cpp",
+              "DocumentMoniker": "C:\\Users\\anthony\\ADA_laptop\\Ejercicios_II_parte\\quick_sort_descendente_ejercicio1_d\\quick_sort_descendente_ejercicio1_d.cpp",
+              "RelativeDocumentMoniker": "quick_sort_descendente_ejercicio1_d.cpp",
+              "ToolTip": "C:\\Users\\anthony\\ADA_laptop\\Ejercicios_II_parte\\quick_sort_descendente_ejercicio1_d\\quick_sort_descendente_ejercicio1_d.cpp",
+              "RelativeToolTip": "quick_sort_descendente_ejercicio1_d.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-28T16:55:06.772Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
