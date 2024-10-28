@@ -10,7 +10,7 @@
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 204,
+      "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "merch_sort_ejercicio1_a.cpp",
               "ToolTip": "C:\\Users\\anthony\\ADA_laptop\\Ejercicios_II_parte\\merch_sort_ejercicio1_a\\merch_sort_ejercicio1_a.cpp",
               "RelativeToolTip": "merch_sort_ejercicio1_a.cpp",
-              "ViewState": "AgIAAJQAAAAAAAAAAAAAwJ8AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAKYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-26T03:59:12.828Z",
               "EditorCaption": ""
