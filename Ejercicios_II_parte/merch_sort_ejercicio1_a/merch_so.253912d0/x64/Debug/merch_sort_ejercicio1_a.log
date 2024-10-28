@@ -1,0 +1,3 @@
+﻿  merch_sort_ejercicio1_a.cpp
+C:\Users\anthony\ADA_laptop\Ejercicios_II_parte\merch_sort_ejercicio1_a\merch_sort_ejercicio1_a.cpp(67,38): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  merch_sort_ejercicio1_a.vcxproj -> C:\Users\anthony\ADA_laptop\Ejercicios_II_parte\merch_sort_ejercicio1_a\x64\Debug\merch_sort_ejercicio1_a.exe
