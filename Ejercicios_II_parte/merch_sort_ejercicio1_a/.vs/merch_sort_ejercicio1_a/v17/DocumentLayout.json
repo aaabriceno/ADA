@@ -14,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "merch_sort_ejercicio1_a.cpp",
               "ToolTip": "C:\\Users\\anthony\\ADA_laptop\\Ejercicios_II_parte\\merch_sort_ejercicio1_a\\merch_sort_ejercicio1_a.cpp",
               "RelativeToolTip": "merch_sort_ejercicio1_a.cpp",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAAwJ8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-26T03:59:12.828Z",
               "EditorCaption": ""
