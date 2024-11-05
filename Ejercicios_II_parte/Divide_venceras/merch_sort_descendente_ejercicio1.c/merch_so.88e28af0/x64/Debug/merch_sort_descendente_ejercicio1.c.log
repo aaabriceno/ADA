@@ -1,0 +1,3 @@
+﻿  merch_sort_descendente_ejercicio1.c.cpp
+C:\Users\anthony\ADA_laptop\Ejercicios_II_parte\merch_sort_descendente_ejercicio1.c\merch_sort_descendente_ejercicio1.c.cpp(67,38): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  merch_sort_descendente_ejercicio1.c.vcxproj -> C:\Users\anthony\ADA_laptop\Ejercicios_II_parte\merch_sort_descendente_ejercicio1.c\x64\Debug\merch_sort_descendente_ejercicio1.c.exe
