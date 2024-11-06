@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anthony\\ADA_laptop\\Ejercicios_II_parte\\Divide_venceras\\ejercicio7_mediana__vector\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{242C6C10-9E91-4E65-B0A5-19AB50B24A45}|ejercicio7_mediana__vector.vcxproj|C:\\Users\\anthony\\ADA_laptop\\Ejercicios_II_parte\\Divide_venceras\\ejercicio7_mediana__vector\\ejercicio7_mediana__vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{242C6C10-9E91-4E65-B0A5-19AB50B24A45}|ejercicio7_mediana__vector.vcxproj|solutionrelative:ejercicio7_mediana__vector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ejercicio7_mediana__vector.cpp",
+              "DocumentMoniker": "C:\\Users\\anthony\\ADA_laptop\\Ejercicios_II_parte\\Divide_venceras\\ejercicio7_mediana__vector\\ejercicio7_mediana__vector.cpp",
+              "RelativeDocumentMoniker": "ejercicio7_mediana__vector.cpp",
+              "ToolTip": "C:\\Users\\anthony\\ADA_laptop\\Ejercicios_II_parte\\Divide_venceras\\ejercicio7_mediana__vector\\ejercicio7_mediana__vector.cpp*",
+              "RelativeToolTip": "ejercicio7_mediana__vector.cpp*",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T19:57:51.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
