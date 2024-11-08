@@ -1,8 +1,5 @@
-# Ignorar todo por defecto
-*
-
-# No ignorar los archivos .cpp
-!*.cpp
-
-# Además, no ignores el archivo .gitignore en sí
-!.gitignore
+# Ignorar
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
