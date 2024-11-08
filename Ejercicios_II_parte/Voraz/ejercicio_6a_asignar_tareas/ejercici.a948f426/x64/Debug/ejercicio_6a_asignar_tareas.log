@@ -1,0 +1,6 @@
+﻿  ejercicio_6a_asignar_tareas.cpp
+C:\Users\anthony\ADA_laptop\Ejercicios_II_parte\Voraz\ejercicio_6a_asignar_tareas\ejercicio_6a_asignar_tareas.cpp(21,11): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\anthony\ADA_laptop\Ejercicios_II_parte\Voraz\ejercicio_6a_asignar_tareas\ejercicio_6a_asignar_tareas.cpp(39,11): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\anthony\ADA_laptop\Ejercicios_II_parte\Voraz\ejercicio_6a_asignar_tareas\ejercicio_6a_asignar_tareas.cpp(65,11): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\anthony\ADA_laptop\Ejercicios_II_parte\Voraz\ejercicio_6a_asignar_tareas\ejercicio_6a_asignar_tareas.cpp(74,29): warning C4244: 'inicializando': conversión de '__int64' a 'int'; posible pérdida de datos
+  ejercicio_6a_asignar_tareas.vcxproj -> C:\Users\anthony\ADA_laptop\Ejercicios_II_parte\Voraz\ejercicio_6a_asignar_tareas\x64\Debug\ejercicio_6a_asignar_tareas.exe
