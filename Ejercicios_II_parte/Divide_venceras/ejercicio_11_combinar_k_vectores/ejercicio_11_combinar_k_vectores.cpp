@@ -111,7 +111,8 @@ vector<int> mergeKArrays(const vector<vector<int>>& arrays, int start, int end) 
     return mergeArrays(left, right);
 }
 
-int main() {
+int main() 
+{
     // Ejemplo de uso
     vector<vector<int>> arrays = {
         {1, 3, 5, 7},
