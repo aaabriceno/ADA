@@ -64,7 +64,6 @@ int main() {
 /*
 #include <iostream>
 #include <vector>
-
 using namespace std;
 
 // Función para combinar dos arrays ordenados
@@ -125,8 +124,8 @@ int main() {
     // Combinar los k arrays
     vector<int> result = mergeKArrays(arrays, 0, k - 1);
 
-    // Imprimir el resultado combinado
-    cout << "Array combinado: ";
+    
+    cout << "Array combinado: "; // Imprimir el resultado combinado
     for (int num : result) {
         cout << num << " ";
     }
