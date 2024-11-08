@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anthony\\ADA_laptop\\Ejercicios_II_parte\\Divide_venceras\\ejercicio_14_puntos_cercanos_conjunto_puntos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38FD907B-A107-4F93-9145-1613C9CA2218}|ejercicio_14_puntos_cercanos_conjunto_puntos.vcxproj|C:\\Users\\anthony\\ADA_laptop\\Ejercicios_II_parte\\Divide_venceras\\ejercicio_14_puntos_cercanos_conjunto_puntos\\ejercicio_14_puntos_cercanos_conjunto_puntos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{38FD907B-A107-4F93-9145-1613C9CA2218}|ejercicio_14_puntos_cercanos_conjunto_puntos.vcxproj|solutionrelative:ejercicio_14_puntos_cercanos_conjunto_puntos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ejercicio_14_puntos_cercanos_conjunto_puntos.cpp",
+              "DocumentMoniker": "C:\\Users\\anthony\\ADA_laptop\\Ejercicios_II_parte\\Divide_venceras\\ejercicio_14_puntos_cercanos_conjunto_puntos\\ejercicio_14_puntos_cercanos_conjunto_puntos.cpp",
+              "RelativeDocumentMoniker": "ejercicio_14_puntos_cercanos_conjunto_puntos.cpp",
+              "ToolTip": "C:\\Users\\anthony\\ADA_laptop\\Ejercicios_II_parte\\Divide_venceras\\ejercicio_14_puntos_cercanos_conjunto_puntos\\ejercicio_14_puntos_cercanos_conjunto_puntos.cpp*",
+              "RelativeToolTip": "ejercicio_14_puntos_cercanos_conjunto_puntos.cpp*",
+              "ViewState": "AgIAAIkAAAAAAAAAAADwv5AAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-08T20:42:58.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
