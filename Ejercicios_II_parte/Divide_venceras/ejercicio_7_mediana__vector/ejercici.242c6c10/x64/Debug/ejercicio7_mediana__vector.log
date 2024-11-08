@@ -1,3 +1,0 @@
-﻿  ejercicio7_mediana__vector.cpp
-C:\Users\anthony\ADA_laptop\Ejercicios_II_parte\Divide_venceras\ejercicio7_mediana__vector\ejercicio7_mediana__vector.cpp(35,12): error C3861: 'encontrarMediana': no se encontró el identificador
-C:\Users\anthony\ADA_laptop\Ejercicios_II_parte\Divide_venceras\ejercicio7_mediana__vector\ejercicio7_mediana__vector.cpp(60,11): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
