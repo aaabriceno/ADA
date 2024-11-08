@@ -1,0 +1,3 @@
+﻿  ejercicio_9_eliminar_elementos_duplicados_de_vector.cpp
+C:\Users\PC\ADA\Ejercicios_II_parte\Divide_venceras\ejercicio_9_eliminar_elementos_duplicados_de_vector\ejercicio_9_eliminar_elementos_duplicados_de_vector.cpp(14,11): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  ejercicio_9_eliminar_elementos_duplicados_de_vector.vcxproj -> C:\Users\PC\ADA\Ejercicios_II_parte\Divide_venceras\ejercicio_9_eliminar_elementos_duplicados_de_vector\x64\Debug\ejercicio_9_eliminar_elementos_duplicados_de_vector.exe
