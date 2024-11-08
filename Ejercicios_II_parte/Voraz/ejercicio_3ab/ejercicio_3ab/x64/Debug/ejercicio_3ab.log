@@ -1,0 +1,3 @@
+﻿  ejercicio_3ab.cpp
+C:\Users\anthony\ADA_laptop\Ejercicios_II_parte\Voraz\ejercicio_3ab\ejercicio_3ab.cpp(34,11): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  ejercicio_3ab.vcxproj -> C:\Users\anthony\ADA_laptop\Ejercicios_II_parte\Voraz\ejercicio_3ab\x64\Debug\ejercicio_3ab.exe
