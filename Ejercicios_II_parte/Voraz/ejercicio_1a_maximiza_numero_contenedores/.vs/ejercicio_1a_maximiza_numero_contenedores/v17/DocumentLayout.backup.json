@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anthony\\ADA_laptop\\Ejercicios_II_parte\\Voraz\\ejercicio_1a_maximiza_numero_contenedores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D776B09-E8C9-485A-ACB5-6FC22884D98F}|ejercicio_1a_maximiza_numero_contenedores.vcxproj|C:\\Users\\anthony\\ADA_laptop\\Ejercicios_II_parte\\Voraz\\ejercicio_1a_maximiza_numero_contenedores\\ejercicio_1a_maximiza_numero_contenedores.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D776B09-E8C9-485A-ACB5-6FC22884D98F}|ejercicio_1a_maximiza_numero_contenedores.vcxproj|solutionrelative:ejercicio_1a_maximiza_numero_contenedores.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ejercicio_1a_maximiza_numero_contenedores.cpp",
+              "DocumentMoniker": "C:\\Users\\anthony\\ADA_laptop\\Ejercicios_II_parte\\Voraz\\ejercicio_1a_maximiza_numero_contenedores\\ejercicio_1a_maximiza_numero_contenedores.cpp",
+              "RelativeDocumentMoniker": "ejercicio_1a_maximiza_numero_contenedores.cpp",
+              "ToolTip": "C:\\Users\\anthony\\ADA_laptop\\Ejercicios_II_parte\\Voraz\\ejercicio_1a_maximiza_numero_contenedores\\ejercicio_1a_maximiza_numero_contenedores.cpp*",
+              "RelativeToolTip": "ejercicio_1a_maximiza_numero_contenedores.cpp*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowB0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-08T21:44:40.268Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
