@@ -14,15 +14,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             },
             {
               "$type": "Document",
@@ -32,10 +28,14 @@
               "RelativeDocumentMoniker": "ejercicio_2_multiplicar_numeros_binarios.cpp",
               "ToolTip": "C:\\Users\\PC\\ADA\\Ejercicios_II_parte\\Divide_venceras\\ejercicio_2_multiplicar_numeros_binarios\\ejercicio_2_multiplicar_numeros_binarios.cpp*",
               "RelativeToolTip": "ejercicio_2_multiplicar_numeros_binarios.cpp*",
-              "ViewState": "AgIAADIAAAAAAAAAAAAUwFIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAtwFcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-08T02:38:44.672Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             }
           ]
         }

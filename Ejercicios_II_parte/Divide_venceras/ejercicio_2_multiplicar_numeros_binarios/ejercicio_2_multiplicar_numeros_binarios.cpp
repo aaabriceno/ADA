@@ -1,83 +1,95 @@
-//Steffano Aaron Ballesteros Roque 
+/*
+Modifique el algoritmo "divide y vencerás" para la multiplicación de grandes
+enteros de forma que permita multiplicar números en binario. Ilustre el
+funcionamiento del algoritmo a la hora de multiplicar los siguientes enteros:
+A = 10011011 y B = 10111010.
+*/
 #include <iostream>
 #include <cmath>
+#include <string>
+
 using namespace std;
 
-int main() {
-    int a, v[10000], vect[10000], b;
-    cout << "Ingrese longitud para los vectores: ";
-    cin >> a;
-    //en caso si el tamaño del bit es 1
+// Función para convertir un número binario a decimal
+int binaryToDecimal(const string& binary) {
+    int decimal = 0;
+    int n = binary.length();
+
+    for (int i = 0; i < n; i++) {
+        if (binary[i] == '1') {
+            decimal += pow(2, n - 1 - i);
+        }
+    }
+
+    return decimal;
+}
+
+// Función para convertir un número decimal a binario
+string decimalToBinary(int decimal) {
+    if (decimal == 0) return "0";
+    string binary = "";
+
+    while (decimal > 0) {
+        binary = to_string(decimal % 2) + binary;
+        decimal /= 2;
+    }
+
+    return binary;
+}
+
+// Función principal de multiplicación utilizando "divide y vencerás"
+string multiplyBinary(const string& A, const string& B) {
+    // Convierte los números binarios a decimales para facilitar la implementación
+    int a = binaryToDecimal(A);
+    int b = binaryToDecimal(B);
+
+    // Caso base: si uno de los números es cero, el resultado es cero
+    if (a == 0 || b == 0) {
+        return "0";
+    }
+
+    // Caso base: si uno de los números es uno, el resultado es el otro número
     if (a == 1) {
-        cout << "Inserte multiplicando: ";
-        cin >> v[0];
-        cout << "-----------------------------\n";
-        cout << "Inserte multiplicador: ";
-        cin >> vect[0];
-
-        int resultado = v[0] * vect[0];
-        cout << "El resultado de la multiplicación de números binarios digitados es: " << resultado << endl;
-        return 0;
+        return B;
+    }
+    if (b == 1) {
+        return A;
     }
 
-    //En caso que el usuario digite 0
-    else if (a == 0) {
-        cout << "El bit tamaño 0 no existe" << endl;
-        return 0;
-    }
+    // Divide los números en dos partes
+    int lenA = A.length();
+    int lenB = B.length();
+    int mid = max(lenA, lenB) / 2;
 
-    //Bucle para digitar el numero a multiplicar en binario (multiplicando)
-    int i = 0;
-    for (; i < a; i++) {
-        cout << "Inserte multiplicando: ";
-        cin >> v[i];
-    }
+    string AL = A.substr(0, lenA - mid);
+    string AR = A.substr(lenA - mid);
+    string BL = B.substr(0, lenB - mid);
+    string BR = B.substr(lenB - mid);
 
-    cout << "------------------------\n";
+    // Realiza las multiplicaciones recursivas
+    int P1 = binaryToDecimal(multiplyBinary(AL, BL));
+    int P2 = binaryToDecimal(multiplyBinary(AR, BR));
+    int P3 = binaryToDecimal(multiplyBinary(decimalToBinary(binaryToDecimal(AL) + binaryToDecimal(AR)),
+        decimalToBinary(binaryToDecimal(BL) + binaryToDecimal(BR))));
 
-    //Bucle para digitar el numero a multiplicar en binario tambien (multiplicador)
-    int h = 0;
-    for (; h < a; h++) {
-        cout << "Inserte multiplicador: ";
-        cin >> vect[h];
-    }
+    // Combina los resultados para obtener el producto final
+    int resultDecimal = P1 * pow(2, 2 * mid) + (P3 - P1 - P2) * pow(2, mid) + P2;
 
-    //
-    int suma = 0, potencia = 0;
-    for (int j = a - 1; j >= 0; j--) {
-        int aux = 0;
-        aux = v[j] * (pow(2, potencia));
-        potencia += 1;
-        suma += aux;
-    }
+    // Convierte el resultado decimal a binario
+    return decimalToBinary(resultDecimal);
+}
 
-    int suma1 = 0, potencia1 = 0;
-    for (int j1 = a - 1; j1 >= 0; j1--) {
-        int aux1 = 0;
-        aux1 = vect[j1] * (pow(2, potencia1));
-        potencia1 += 1;
-        suma1 += aux1;
-    }
+int main() {
+    string A = "10011011";
+    string B = "10111010";
 
-    int mul, k1, co[1000], au;
-    mul = (suma * suma1);
-    au = mul;
+    cout << "Multiplicando los numeros binarios:\n";
+    cout << "A = " << A << "\n";
+    cout << "B = " << B << "\n";
 
-    k1 = 0;
-    while (au > 0) {
-        co[k1] = au % 2;
-        au = au / 2;
-        k1++;
-    }
+    string result = multiplyBinary(A, B);
 
-    cout << "El resultado de la multiplicacion de numeros binarios digitado es: ";
-
-    for (int x = k1 - 1; x >= 0; x--) {
-
-        cout << co[x];
-    }
-
-    cout << endl;
+    cout << "Resultado en binario: " << result << "\n";
 
     return 0;
 }
