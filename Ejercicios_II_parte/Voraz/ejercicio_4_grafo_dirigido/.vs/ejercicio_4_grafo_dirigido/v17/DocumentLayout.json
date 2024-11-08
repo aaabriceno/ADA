@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anthony\\ADA_laptop\\Ejercicios_II_parte\\Voraz\\ejercicio_4_grafo_dirigido\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF0521D-39C8-4656-B7E1-3BBDEDBF65B5}|ejercicio_4_grafo_dirigido.vcxproj|C:\\Users\\anthony\\ADA_laptop\\Ejercicios_II_parte\\Voraz\\ejercicio_4_grafo_dirigido\\ejercicio_4_grafo_dirigido.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DF0521D-39C8-4656-B7E1-3BBDEDBF65B5}|ejercicio_4_grafo_dirigido.vcxproj|solutionrelative:ejercicio_4_grafo_dirigido.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ejercicio_4_grafo_dirigido.cpp",
+              "DocumentMoniker": "C:\\Users\\anthony\\ADA_laptop\\Ejercicios_II_parte\\Voraz\\ejercicio_4_grafo_dirigido\\ejercicio_4_grafo_dirigido.cpp",
+              "RelativeDocumentMoniker": "ejercicio_4_grafo_dirigido.cpp",
+              "ToolTip": "C:\\Users\\anthony\\ADA_laptop\\Ejercicios_II_parte\\Voraz\\ejercicio_4_grafo_dirigido\\ejercicio_4_grafo_dirigido.cpp",
+              "RelativeToolTip": "ejercicio_4_grafo_dirigido.cpp",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-08T22:55:41.615Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
