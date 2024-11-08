@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anthony\\ADA_laptop\\Ejercicios_II_parte\\Voraz\\ejercicio_7_gasolineras_respostar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0498218-7F37-4D62-9F57-57838846BDE0}|ejercicio_7_gasolineras_respostar.vcxproj|C:\\Users\\anthony\\ADA_laptop\\Ejercicios_II_parte\\Voraz\\ejercicio_7_gasolineras_respostar\\ejercicio_7_gasolineras_respostar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A0498218-7F37-4D62-9F57-57838846BDE0}|ejercicio_7_gasolineras_respostar.vcxproj|solutionrelative:ejercicio_7_gasolineras_respostar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ejercicio_7_gasolineras_respostar.cpp",
+              "DocumentMoniker": "C:\\Users\\anthony\\ADA_laptop\\Ejercicios_II_parte\\Voraz\\ejercicio_7_gasolineras_respostar\\ejercicio_7_gasolineras_respostar.cpp",
+              "RelativeDocumentMoniker": "ejercicio_7_gasolineras_respostar.cpp",
+              "ToolTip": "C:\\Users\\anthony\\ADA_laptop\\Ejercicios_II_parte\\Voraz\\ejercicio_7_gasolineras_respostar\\ejercicio_7_gasolineras_respostar.cpp*",
+              "RelativeToolTip": "ejercicio_7_gasolineras_respostar.cpp*",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAowD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-08T23:29:43.384Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
