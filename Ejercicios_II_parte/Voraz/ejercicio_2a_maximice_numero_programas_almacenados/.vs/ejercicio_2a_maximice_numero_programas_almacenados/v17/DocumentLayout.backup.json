@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anthony\\ADA_laptop\\Ejercicios_II_parte\\Voraz\\ejercicio_2a_maximice_numero_programas_almacenados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{554650F1-E8AA-43C3-8C0D-E215BB51590B}|ejercicio_2a_maximice_numero_programas_almacenados.vcxproj|C:\\Users\\anthony\\ADA_laptop\\Ejercicios_II_parte\\Voraz\\ejercicio_2a_maximice_numero_programas_almacenados\\ejercicio_2a_maximice_numero_programas_almacenados.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{554650F1-E8AA-43C3-8C0D-E215BB51590B}|ejercicio_2a_maximice_numero_programas_almacenados.vcxproj|solutionrelative:ejercicio_2a_maximice_numero_programas_almacenados.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ejercicio_2a_maximice_numero_programas_almacenados.cpp",
+              "DocumentMoniker": "C:\\Users\\anthony\\ADA_laptop\\Ejercicios_II_parte\\Voraz\\ejercicio_2a_maximice_numero_programas_almacenados\\ejercicio_2a_maximice_numero_programas_almacenados.cpp",
+              "RelativeDocumentMoniker": "ejercicio_2a_maximice_numero_programas_almacenados.cpp",
+              "ToolTip": "C:\\Users\\anthony\\ADA_laptop\\Ejercicios_II_parte\\Voraz\\ejercicio_2a_maximice_numero_programas_almacenados\\ejercicio_2a_maximice_numero_programas_almacenados.cpp",
+              "RelativeToolTip": "ejercicio_2a_maximice_numero_programas_almacenados.cpp",
+              "ViewState": "AgIAACkAAAAAAAAAAAAowDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-08T22:14:24.282Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
