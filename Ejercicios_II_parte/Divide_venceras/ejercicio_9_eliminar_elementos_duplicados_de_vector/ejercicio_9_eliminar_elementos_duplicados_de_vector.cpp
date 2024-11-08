@@ -1,46 +1,51 @@
-/*
-Dado un vector de n elementos, de los cuales algunos están duplicados, diseñe
-un algoritmo O(n log n) que permita eliminar todos los elementos duplicados.
-*/
-
 #include <iostream>
 #include <vector>
 #include <algorithm>
+#include <unordered_set>
 
 using namespace std;
 
-// Función para eliminar duplicados de un vector ordenado
-static void remover_duplicados(vector<int>& sortedVector) {
-    int n = sortedVector.size();
+// Función para combinar dos vectores eliminando duplicados
+vector<int> mergeAndRemoveDuplicates(const vector<int>& left, const vector<int>& right) {
+    unordered_set<int> uniqueElements;
+    vector<int> result;
 
-    // Caso base: vector vacío o con un solo elemento
-    if (n <= 1) {
-        return;
+    for (int num : left) {
+        uniqueElements.insert(num);
+    }
+    for (int num : right) {
+        uniqueElements.insert(num);
     }
 
-    // Índice para almacenar elementos únicos
-    int uniqueIndex = 0;
-
-    // Iterar sobre el vector para eliminar duplicados adyacentes
-    for (int i = 1; i < n; ++i) {
-        // Si el elemento actual es diferente al anterior, lo almacenamos en la posición única
-        if (sortedVector[i] != sortedVector[uniqueIndex]) {
-            ++uniqueIndex;
-            sortedVector[uniqueIndex] = sortedVector[i];
-        }
+    for (int num : uniqueElements) {
+        result.push_back(num);
     }
 
-    // Redimensionar el vector para que solo contenga elementos únicos
-    sortedVector.resize(uniqueIndex + 1);
+    sort(result.begin(), result.end());
+    return result;
+}
+
+// Función recursiva para dividir el vector y eliminar duplicados
+vector<int> divideAndConquerRemoveDuplicates(const vector<int>& inputVector, int start, int end) {
+    if (start == end) {
+        return { inputVector[start] };
+    }
+
+    int mid = start + (end - start) / 2;
+    vector<int> left = divideAndConquerRemoveDuplicates(inputVector, start, mid);
+    vector<int> right = divideAndConquerRemoveDuplicates(inputVector, mid + 1, end);
+
+    return mergeAndRemoveDuplicates(left, right);
 }
 
 // Función principal para eliminar duplicados de un vector
 void eliminar_elementos_duplicados(vector<int>& inputVector) {
-    // Ordenar el vector
-    sort(inputVector.begin(), inputVector.end());
+    if (inputVector.empty()) {
+        return;
+    }
 
-    // Eliminar duplicados
-    remover_duplicados(inputVector);
+    vector<int> result = divideAndConquerRemoveDuplicates(inputVector, 0, inputVector.size() - 1);
+    inputVector = result;
 }
 
 int main() {
