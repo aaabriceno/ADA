@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anthony\\ADA_laptop\\Ejercicios_II_parte\\Voraz\\ejercicio_9_agrupar_clientes_k_grupos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36039857-6752-4804-857A-F2BD9B4B91DB}|ejercicio_9_agrupar_clientes_k_grupos.vcxproj|C:\\Users\\anthony\\ADA_laptop\\Ejercicios_II_parte\\Voraz\\ejercicio_9_agrupar_clientes_k_grupos\\ejercicio_9_agrupar_clientes_k_grupos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{36039857-6752-4804-857A-F2BD9B4B91DB}|ejercicio_9_agrupar_clientes_k_grupos.vcxproj|solutionrelative:ejercicio_9_agrupar_clientes_k_grupos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ejercicio_9_agrupar_clientes_k_grupos.cpp",
+              "DocumentMoniker": "C:\\Users\\anthony\\ADA_laptop\\Ejercicios_II_parte\\Voraz\\ejercicio_9_agrupar_clientes_k_grupos\\ejercicio_9_agrupar_clientes_k_grupos.cpp",
+              "RelativeDocumentMoniker": "ejercicio_9_agrupar_clientes_k_grupos.cpp",
+              "ToolTip": "C:\\Users\\anthony\\ADA_laptop\\Ejercicios_II_parte\\Voraz\\ejercicio_9_agrupar_clientes_k_grupos\\ejercicio_9_agrupar_clientes_k_grupos.cpp",
+              "RelativeToolTip": "ejercicio_9_agrupar_clientes_k_grupos.cpp",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAYwEwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-09T00:01:56.339Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

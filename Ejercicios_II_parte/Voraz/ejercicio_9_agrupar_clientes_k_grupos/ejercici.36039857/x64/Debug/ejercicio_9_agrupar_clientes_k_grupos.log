@@ -1,0 +1,3 @@
+﻿  ejercicio_9_agrupar_clientes_k_grupos.cpp
+C:\Users\anthony\ADA_laptop\Ejercicios_II_parte\Voraz\ejercicio_9_agrupar_clientes_k_grupos\ejercicio_9_agrupar_clientes_k_grupos.cpp(56,32): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  ejercicio_9_agrupar_clientes_k_grupos.vcxproj -> C:\Users\anthony\ADA_laptop\Ejercicios_II_parte\Voraz\ejercicio_9_agrupar_clientes_k_grupos\x64\Debug\ejercicio_9_agrupar_clientes_k_grupos.exe
