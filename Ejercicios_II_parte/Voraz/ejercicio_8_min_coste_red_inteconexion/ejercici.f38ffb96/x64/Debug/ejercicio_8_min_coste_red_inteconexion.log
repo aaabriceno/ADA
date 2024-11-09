@@ -1,0 +1,3 @@
+﻿  ejercicio_8_min_coste_red_inteconexion.cpp
+C:\Users\anthony\ADA_laptop\Ejercicios_II_parte\Voraz\ejercicio_8_min_coste_red_inteconexion\ejercicio_8_min_coste_red_inteconexion.cpp(39,11): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  ejercicio_8_min_coste_red_inteconexion.vcxproj -> C:\Users\anthony\ADA_laptop\Ejercicios_II_parte\Voraz\ejercicio_8_min_coste_red_inteconexion\x64\Debug\ejercicio_8_min_coste_red_inteconexion.exe
