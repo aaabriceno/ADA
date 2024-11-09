@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anthony\\ADA_laptop\\Ejercicios_II_parte\\Voraz\\ejercicio_11_minimizar_numero_aulas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C6A10C-F1F3-44C5-9A03-DF291CC00F73}|ejercicio_11_minimizar_numero_aulas.vcxproj|C:\\Users\\anthony\\ADA_laptop\\Ejercicios_II_parte\\Voraz\\ejercicio_11_minimizar_numero_aulas\\ejercicio_11_minimizar_numero_aulas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B2C6A10C-F1F3-44C5-9A03-DF291CC00F73}|ejercicio_11_minimizar_numero_aulas.vcxproj|solutionrelative:ejercicio_11_minimizar_numero_aulas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ejercicio_11_minimizar_numero_aulas.cpp",
+              "DocumentMoniker": "C:\\Users\\anthony\\ADA_laptop\\Ejercicios_II_parte\\Voraz\\ejercicio_11_minimizar_numero_aulas\\ejercicio_11_minimizar_numero_aulas.cpp",
+              "RelativeDocumentMoniker": "ejercicio_11_minimizar_numero_aulas.cpp",
+              "ToolTip": "C:\\Users\\anthony\\ADA_laptop\\Ejercicios_II_parte\\Voraz\\ejercicio_11_minimizar_numero_aulas\\ejercicio_11_minimizar_numero_aulas.cpp",
+              "RelativeToolTip": "ejercicio_11_minimizar_numero_aulas.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-09T00:16:42.778Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
