@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35431.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ejercicio_problema_monedas_dinamica", "ejercicio_problema_monedas_dinamica.vcxproj", "{068DFED3-45BE-4D4C-9112-037028A279D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{068DFED3-45BE-4D4C-9112-037028A279D6}.Debug|x64.ActiveCfg = Debug|x64
+		{068DFED3-45BE-4D4C-9112-037028A279D6}.Debug|x64.Build.0 = Debug|x64
+		{068DFED3-45BE-4D4C-9112-037028A279D6}.Debug|x86.ActiveCfg = Debug|Win32
+		{068DFED3-45BE-4D4C-9112-037028A279D6}.Debug|x86.Build.0 = Debug|Win32
+		{068DFED3-45BE-4D4C-9112-037028A279D6}.Release|x64.ActiveCfg = Release|x64
+		{068DFED3-45BE-4D4C-9112-037028A279D6}.Release|x64.Build.0 = Release|x64
+		{068DFED3-45BE-4D4C-9112-037028A279D6}.Release|x86.ActiveCfg = Release|Win32
+		{068DFED3-45BE-4D4C-9112-037028A279D6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7055168A-7B77-49CA-AE07-BE01068102CC}
+	EndGlobalSection
+EndGlobal

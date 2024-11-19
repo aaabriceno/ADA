@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\ADA\\Ejercicios_II_parte\\Dinamica\\ejercicio_problema_monedas_dinamica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{068DFED3-45BE-4D4C-9112-037028A279D6}|ejercicio_problema_monedas_dinamica.vcxproj|C:\\Users\\PC\\ADA\\Ejercicios_II_parte\\Dinamica\\ejercicio_problema_monedas_dinamica\\ejercicio_problema_monedas_dinamica.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{068DFED3-45BE-4D4C-9112-037028A279D6}|ejercicio_problema_monedas_dinamica.vcxproj|solutionrelative:ejercicio_problema_monedas_dinamica.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ejercicio_problema_monedas_dinamica.cpp",
+              "DocumentMoniker": "C:\\Users\\PC\\ADA\\Ejercicios_II_parte\\Dinamica\\ejercicio_problema_monedas_dinamica\\ejercicio_problema_monedas_dinamica.cpp",
+              "RelativeDocumentMoniker": "ejercicio_problema_monedas_dinamica.cpp",
+              "ToolTip": "C:\\Users\\PC\\ADA\\Ejercicios_II_parte\\Dinamica\\ejercicio_problema_monedas_dinamica\\ejercicio_problema_monedas_dinamica.cpp",
+              "RelativeToolTip": "ejercicio_problema_monedas_dinamica.cpp",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-19T07:40:04.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿  ejercicio_problema_monedas_dinamica.cpp
+C:\Users\PC\ADA\Ejercicios_II_parte\Dinamica\ejercicio_problema_monedas_dinamica\ejercicio_problema_monedas_dinamica.cpp(8,11): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  ejercicio_problema_monedas_dinamica.vcxproj -> C:\Users\PC\ADA\Ejercicios_II_parte\Dinamica\ejercicio_problema_monedas_dinamica\x64\Debug\ejercicio_problema_monedas_dinamica.exe
