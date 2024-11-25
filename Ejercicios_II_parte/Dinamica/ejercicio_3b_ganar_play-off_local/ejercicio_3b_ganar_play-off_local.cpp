@@ -2,46 +2,58 @@
 #include <vector>
 using namespace std;
 
-double calcularProbabilidad(int n, double PL) {
-    double PV = 1.0 - PL; // Probabilidad de ganar como visitante
+// Función para calcular la probabilidad P(i, j)
+double calcularProbabilidad(int i, int j, double PL, double PV) {
+    // Crear una matriz dp de tamaño (i+1) x (j+1)
+    vector<vector<double>> dp(i + 1, vector<double>(j + 1, 0));
 
-    // Crear tabla DP: dp[i][j] representa la probabilidad de que Informáticos CB gane con i victorias restantes y Basket Telecom con j victorias restantes
-    vector<vector<double>> dp(n + 1, vector<double>(n + 1, 0.0));
-
-    // Casos base:
-    // Si Informáticos CB gana todas las partidas que necesita antes que Basket Telecom
-    for (int j = 0; j <= n; ++j) {
-        dp[0][j] = 1.0; // Informáticos CB ya ganó
-    }
-    // Si Basket Telecom gana todas las partidas que necesita antes que Informáticos CB
-    for (int i = 0; i <= n; ++i) {
-        dp[i][0] = 0.0; // Basket Telecom ya ganó
+    // Caso base: Si el primer equipo necesita ganar 0 partidos, el segundo equipo debe ganar todos
+    for (int k = 0; k <= j; ++k) {
+        dp[0][k] = 1.0;
     }
 
-    // Rellenar la tabla DP de abajo hacia arriba
-    for (int i = 1; i <= n; ++i) {
-        for (int j = 1; j <= n; ++j) {
-            dp[i][j] = PL * dp[i - 1][j] + PV * dp[i][j - 1];
+    // Caso base: Si el segundo equipo necesita ganar 0 partidos, el primer equipo gana
+    for (int k = 0; k <= i; ++k) {
+        dp[k][0] = 0.0;
+    }
+
+    // Calcular la probabilidad para cada par (i, j)
+    for (int x = 1; x <= i; ++x) {
+        for (int y = 1; y <= j; ++y) {
+            // Determinamos si el primer equipo juega de local o visitante
+            double probabilidadPartido = (x + y) % 2 == 0 ? PL : PV; // Partido en casa si (x + y) es par, fuera si es impar
+            dp[x][y] = probabilidadPartido * dp[x - 1][y] + (1 - probabilidadPartido) * dp[x][y - 1];
         }
     }
 
-    // Retornar la probabilidad final
-    return dp[n][n];
+    // Retornar la probabilidad de que el primer equipo gane el play-off
+    return dp[i][j];
 }
 
 int main() {
-    int n = 3;       // Número de victorias necesarias
-    double PL = 0.6; // Probabilidad de ganar como local (PL > PV)
-    cout << "Ingrese el numero de victorias necesarias: "; cin >> n;
-	cout << "Ingrese la probabilidad de ganar de Local: "; cin >> PL;
-    if (PL <= 0.5) {
-        cout << "Error: PL debe ser mayor que 0.5, ya que PL > PV (ventaja de campo).\n";
-        return 1;
-    }
+    int n;
+    double PL, PV;
 
-    double probabilidadGanar = calcularProbabilidad(n, PL);
+    cout << "Numero de victorias necesarias para ganar el play-off (n): ";
+    cin >> n;
 
-    cout << "La probabilidad de que Informaticos CB gane el play-off es: " << probabilidadGanar << endl;
+    do {
+        cout << "Probabilidad de que Informáticos CB gane un partido como local (PL): ";
+        cin >> PL;
+
+        PV = 1.0 - PL;
+
+        if (PL <= PV) {
+            cout << "Error: La probabilidad de ganar como local (PL) debe ser mayor que la probabilidad de ganar como visitante (PV)." << endl;
+        }
+    } while (PL <= PV);
+
+    cout << "La probabilidad de ganar como visitante (PL) será: " << PL << endl;
+    cout << "La probabilidad de ganar como visitante (PV) será: " << PV << endl;
+
+    // Calcular y mostrar la probabilidad de que el primer equipo gane el play-off
+    double probabilidad = calcularProbabilidad(n, n, PL, PV);
+    cout << "La probabilidad de que Informaticos CB gane el play-off es: " << probabilidad << endl;
 
     return 0;
 }
