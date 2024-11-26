@@ -1,0 +1,3 @@
+﻿  ejercicio_1b_quicksort_ascendente.cpp
+C:\Users\PC\ADA\Ejercicios_II_parte\Divide_venceras\ejercicio_1b_quicksort_ascendente\ejercicio_1b_quicksort_ascendente.cpp(31,16): warning C4244: 'return': conversión de '__int64' a 'int'; posible pérdida de datos
+  ejercicio_1b_quicksort_ascendente.vcxproj -> C:\Users\PC\ADA\Ejercicios_II_parte\Divide_venceras\ejercicio_1b_quicksort_ascendente\x64\Debug\ejercicio_1b_quicksort_ascendente.exe
