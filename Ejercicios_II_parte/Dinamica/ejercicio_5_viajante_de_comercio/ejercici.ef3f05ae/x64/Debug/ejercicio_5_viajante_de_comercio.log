@@ -1,0 +1,7 @@
+﻿  ejercicio_5_viajante_de_comercio.cpp
+C:\Users\PC\ADA\Ejercicios_II_parte\Dinamica\ejercicio_5_viajante_de_comercio\ejercicio_5_viajante_de_comercio.cpp(11,11): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\PC\ADA\Ejercicios_II_parte\Dinamica\ejercicio_5_viajante_de_comercio\ejercicio_5_viajante_de_comercio.cpp(35,11): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\PC\ADA\Ejercicios_II_parte\Dinamica\ejercicio_5_viajante_de_comercio\ejercicio_5_viajante_de_comercio.cpp(55,11): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\PC\ADA\Ejercicios_II_parte\Dinamica\ejercicio_5_viajante_de_comercio\ejercicio_5_viajante_de_comercio.cpp(58,47): warning C4334: '<<': el resultado del desplazamiento de 32 bits se convirtió implícitamente en 64 bits (¿quería un desplazamiento de 64 bits?)
+C:\Users\PC\ADA\Ejercicios_II_parte\Dinamica\ejercicio_5_viajante_de_comercio\ejercicio_5_viajante_de_comercio.cpp(91,11): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  ejercicio_5_viajante_de_comercio.vcxproj -> C:\Users\PC\ADA\Ejercicios_II_parte\Dinamica\ejercicio_5_viajante_de_comercio\x64\Debug\ejercicio_5_viajante_de_comercio.exe
