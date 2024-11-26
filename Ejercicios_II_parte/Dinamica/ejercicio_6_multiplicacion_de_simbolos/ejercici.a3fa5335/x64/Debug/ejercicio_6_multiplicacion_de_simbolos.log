@@ -1,0 +1,3 @@
+﻿  ejercicio_6_multiplicacion_de_simbolos.cpp
+C:\Users\PC\ADA\Ejercicios_II_parte\Dinamica\ejercicio_6_multiplicacion_de_simbolos\ejercicio_6_multiplicacion_de_simbolos.cpp(7,11): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  ejercicio_6_multiplicacion_de_simbolos.vcxproj -> C:\Users\PC\ADA\Ejercicios_II_parte\Dinamica\ejercicio_6_multiplicacion_de_simbolos\x64\Debug\ejercicio_6_multiplicacion_de_simbolos.exe

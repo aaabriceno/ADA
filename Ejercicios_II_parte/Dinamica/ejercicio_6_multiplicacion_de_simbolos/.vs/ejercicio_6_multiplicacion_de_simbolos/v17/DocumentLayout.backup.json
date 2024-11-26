@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\ADA\\Ejercicios_II_parte\\Dinamica\\ejercicio_6_multiplicacion_de_simbolos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3FA5335-A593-4F5F-8F4F-7137D06E5D60}|ejercicio_6_multiplicacion_de_simbolos.vcxproj|C:\\Users\\PC\\ADA\\Ejercicios_II_parte\\Dinamica\\ejercicio_6_multiplicacion_de_simbolos\\ejercicio_6_multiplicacion_de_simbolos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3FA5335-A593-4F5F-8F4F-7137D06E5D60}|ejercicio_6_multiplicacion_de_simbolos.vcxproj|solutionrelative:ejercicio_6_multiplicacion_de_simbolos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ejercicio_6_multiplicacion_de_simbolos.cpp",
+              "DocumentMoniker": "C:\\Users\\PC\\ADA\\Ejercicios_II_parte\\Dinamica\\ejercicio_6_multiplicacion_de_simbolos\\ejercicio_6_multiplicacion_de_simbolos.cpp",
+              "RelativeDocumentMoniker": "ejercicio_6_multiplicacion_de_simbolos.cpp",
+              "ToolTip": "C:\\Users\\PC\\ADA\\Ejercicios_II_parte\\Dinamica\\ejercicio_6_multiplicacion_de_simbolos\\ejercicio_6_multiplicacion_de_simbolos.cpp",
+              "RelativeToolTip": "ejercicio_6_multiplicacion_de_simbolos.cpp",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T16:52:36.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
