@@ -12,7 +12,7 @@ int medianthree(int* ptr_izq, int* ptr_medio, int* ptr_der) {
 	if ((*ptr_izq > *ptr_medio) != (*ptr_izq > *ptr_der)) {
 		return *ptr_izq;
 	}
-	else if (*ptr_medio > *ptr_izq != *ptr_medio > *ptr_der) {
+	else if ((*ptr_medio > *ptr_izq) && (*ptr_medio > *ptr_der)) {
 		return *ptr_medio;
 	}
 	else {
