@@ -1,0 +1,3 @@
+﻿  ejercicio_4_secuencia_creciente_max_long.cpp
+C:\Users\anthony\ADA_laptop\Ejercicios_II_parte\Dinamica\ejercicio_4_secuencia_creciente_max_long\ejercicio_4_secuencia_creciente_max_long.cpp(6,11): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  ejercicio_4_secuencia_creciente_max_long.vcxproj -> C:\Users\anthony\ADA_laptop\Ejercicios_II_parte\Dinamica\ejercicio_4_secuencia_creciente_max_long\x64\Debug\ejercicio_4_secuencia_creciente_max_long.exe
