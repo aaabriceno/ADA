@@ -10,7 +10,7 @@
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 353,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "ejercicio_1c_merch_sort_descendente.cpp",
               "ToolTip": "C:\\Users\\PC\\ADA\\Ejercicios_II_parte\\Divide_venceras\\ejercicio_1c_merch_sort_descendente\\ejercicio_1c_merch_sort_descendente.cpp",
               "RelativeToolTip": "ejercicio_1c_merch_sort_descendente.cpp",
-              "ViewState": "AgIAAH8AAAAAAAAAAAAUwKgAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKgAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-08T02:27:05.438Z",
               "EditorCaption": ""
