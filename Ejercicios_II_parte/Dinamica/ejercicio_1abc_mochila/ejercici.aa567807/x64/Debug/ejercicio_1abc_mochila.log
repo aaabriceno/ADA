@@ -1,0 +1,3 @@
+﻿  ejercicio_1abc_mochila.cpp
+C:\Users\PC\ADA\Ejercicios_II_parte\Dinamica\ejercicio_1abc_mochila\ejercicio_1abc_mochila.cpp(19,11): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  ejercicio_1abc_mochila.vcxproj -> C:\Users\PC\ADA\Ejercicios_II_parte\Dinamica\ejercicio_1abc_mochila\x64\Debug\ejercicio_1abc_mochila.exe
