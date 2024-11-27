@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anthony\\ADA_laptop\\Ejercicios_II_parte\\Back\\ejercicio_1_esquis_alumnos_backtracking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58925332-B894-436B-B0F1-95FB16D0155A}|ejercicio_1_esquis_alumnos_backtracking.vcxproj|C:\\Users\\anthony\\ADA_laptop\\Ejercicios_II_parte\\Back\\ejercicio_1_esquis_alumnos_backtracking\\ejercicio_1_esquis_alumnos_backtracking.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{58925332-B894-436B-B0F1-95FB16D0155A}|ejercicio_1_esquis_alumnos_backtracking.vcxproj|solutionrelative:ejercicio_1_esquis_alumnos_backtracking.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ejercicio_1_esquis_alumnos_backtracking.cpp",
+              "DocumentMoniker": "C:\\Users\\anthony\\ADA_laptop\\Ejercicios_II_parte\\Back\\ejercicio_1_esquis_alumnos_backtracking\\ejercicio_1_esquis_alumnos_backtracking.cpp",
+              "RelativeDocumentMoniker": "ejercicio_1_esquis_alumnos_backtracking.cpp",
+              "ToolTip": "C:\\Users\\anthony\\ADA_laptop\\Ejercicios_II_parte\\Back\\ejercicio_1_esquis_alumnos_backtracking\\ejercicio_1_esquis_alumnos_backtracking.cpp",
+              "RelativeToolTip": "ejercicio_1_esquis_alumnos_backtracking.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-27T18:37:19.849Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

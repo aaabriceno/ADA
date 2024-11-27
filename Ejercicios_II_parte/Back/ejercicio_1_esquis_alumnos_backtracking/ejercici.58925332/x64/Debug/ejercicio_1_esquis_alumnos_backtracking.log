@@ -1,0 +1,4 @@
+﻿  ejercicio_1_esquis_alumnos_backtracking.cpp
+C:\Users\anthony\ADA_laptop\Ejercicios_II_parte\Back\ejercicio_1_esquis_alumnos_backtracking\ejercicio_1_esquis_alumnos_backtracking.cpp(10,11): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\anthony\ADA_laptop\Ejercicios_II_parte\Back\ejercicio_1_esquis_alumnos_backtracking\ejercicio_1_esquis_alumnos_backtracking.cpp(32,11): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  ejercicio_1_esquis_alumnos_backtracking.vcxproj -> C:\Users\anthony\ADA_laptop\Ejercicios_II_parte\Back\ejercicio_1_esquis_alumnos_backtracking\x64\Debug\ejercicio_1_esquis_alumnos_backtracking.exe
