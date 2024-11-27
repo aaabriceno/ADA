@@ -1,0 +1,3 @@
+﻿  ejercicio_9_grafo_multietapa.cpp
+C:\Users\PC\ADA\Ejercicios_II_parte\Dinamica\ejercicio_9_grafo_multietapa\ejercicio_9_grafo_multietapa.cpp(17,11): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  ejercicio_9_grafo_multietapa.vcxproj -> C:\Users\PC\ADA\Ejercicios_II_parte\Dinamica\ejercicio_9_grafo_multietapa\x64\Debug\ejercicio_9_grafo_multietapa.exe
