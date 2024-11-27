@@ -1,0 +1,3 @@
+﻿  ejercicio_7_creacion_cadena_eslabones.cpp
+C:\Users\PC\ADA\Ejercicios_II_parte\Dinamica\ejercicio_7_creacion_cadena_eslabones\ejercicio_7_creacion_cadena_eslabones.cpp(9,11): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  ejercicio_7_creacion_cadena_eslabones.vcxproj -> C:\Users\PC\ADA\Ejercicios_II_parte\Dinamica\ejercicio_7_creacion_cadena_eslabones\x64\Debug\ejercicio_7_creacion_cadena_eslabones.exe
