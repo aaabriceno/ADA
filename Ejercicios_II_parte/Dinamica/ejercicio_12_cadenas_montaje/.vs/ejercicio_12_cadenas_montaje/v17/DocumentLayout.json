@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\ADA\\Ejercicios_II_parte\\Dinamica\\ejercicio_12_cadenas_montaje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B170D5-46B4-4819-AF23-BBE22876B737}|ejercicio_12_cadenas_montaje.vcxproj|C:\\Users\\PC\\ADA\\Ejercicios_II_parte\\Dinamica\\ejercicio_12_cadenas_montaje\\ejercicio_12_cadenas_montaje.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0B170D5-46B4-4819-AF23-BBE22876B737}|ejercicio_12_cadenas_montaje.vcxproj|solutionrelative:ejercicio_12_cadenas_montaje.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ejercicio_12_cadenas_montaje.cpp",
+              "DocumentMoniker": "C:\\Users\\PC\\ADA\\Ejercicios_II_parte\\Dinamica\\ejercicio_12_cadenas_montaje\\ejercicio_12_cadenas_montaje.cpp",
+              "RelativeDocumentMoniker": "ejercicio_12_cadenas_montaje.cpp",
+              "ToolTip": "C:\\Users\\PC\\ADA\\Ejercicios_II_parte\\Dinamica\\ejercicio_12_cadenas_montaje\\ejercicio_12_cadenas_montaje.cpp",
+              "RelativeToolTip": "ejercicio_12_cadenas_montaje.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-27T05:01:37.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
