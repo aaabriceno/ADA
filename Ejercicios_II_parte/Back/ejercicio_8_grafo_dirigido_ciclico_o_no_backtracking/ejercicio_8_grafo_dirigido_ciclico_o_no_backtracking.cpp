@@ -38,7 +38,6 @@ bool hasCycle(int n, vector<vector<int>>& adj) {
             }
         }
     }
-
     return false; // No se encontró ningún ciclo
 }
 
