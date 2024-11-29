@@ -15,8 +15,8 @@
 - Técnicas de diseño y optimización de algoritmos
 
 ## Profesor
-- **Profesor:** [Juan Carlos Gutierrez Caceres]
+- **Profesor:** Juan Carlos Gutierrez Caceres
 
 ## Contacto
-- **Correo:** [anthony.brceno@ucsp.edu.pe]
+- **Correo:** anthony.brceno@ucsp.edu.pe
 
