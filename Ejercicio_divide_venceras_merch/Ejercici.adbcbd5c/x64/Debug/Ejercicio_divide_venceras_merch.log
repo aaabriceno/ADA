@@ -1,5 +1,4 @@
 ﻿  Ejercicio_divide_venceras_merch.cpp
-C:\Users\anthony\ADA_laptop\Ejercicio_divide_venceras_merch\Ejercicio_divide_venceras_merch.cpp(34,42): warning C4267: '+=': conversión de 'size_t' a 'int'; posible pérdida de datos
-C:\Users\anthony\ADA_laptop\Ejercicio_divide_venceras_merch\Ejercicio_divide_venceras_merch.cpp(82,36): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
-C:\Users\anthony\ADA_laptop\Ejercicio_divide_venceras_merch\Ejercicio_divide_venceras_merch.cpp(85,62): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
-  Ejercicio_divide_venceras_merch.vcxproj -> C:\Users\anthony\ADA_laptop\Ejercicio_divide_venceras_merch\x64\Debug\Ejercicio_divide_venceras_merch.exe
+C:\Users\PC\ADA\Ejercicio_divide_venceras_merch\Ejercicio_divide_venceras_merch.cpp(114,43): warning C4267: '+=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\PC\ADA\Ejercicio_divide_venceras_merch\Ejercicio_divide_venceras_merch.cpp(147,63): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Ejercicio_divide_venceras_merch.vcxproj -> C:\Users\PC\ADA\Ejercicio_divide_venceras_merch\x64\Debug\Ejercicio_divide_venceras_merch.exe
