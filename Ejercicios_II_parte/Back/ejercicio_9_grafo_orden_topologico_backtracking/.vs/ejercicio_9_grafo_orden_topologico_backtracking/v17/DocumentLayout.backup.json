@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\ADA\\Ejercicios_II_parte\\Back\\ejercicio_9_grafo_orden_topologico_backtracking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F6027D-64DC-4D72-BEB6-3E0661875671}|ejercicio_9_grafo_orden_topologico_backtracking.vcxproj|C:\\Users\\PC\\ADA\\Ejercicios_II_parte\\Back\\ejercicio_9_grafo_orden_topologico_backtracking\\ejercicio_9_grafo_orden_topologico_backtracking.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6F6027D-64DC-4D72-BEB6-3E0661875671}|ejercicio_9_grafo_orden_topologico_backtracking.vcxproj|solutionrelative:ejercicio_9_grafo_orden_topologico_backtracking.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ejercicio_9_grafo_orden_topologico_backtracking.cpp",
+              "DocumentMoniker": "C:\\Users\\PC\\ADA\\Ejercicios_II_parte\\Back\\ejercicio_9_grafo_orden_topologico_backtracking\\ejercicio_9_grafo_orden_topologico_backtracking.cpp",
+              "RelativeDocumentMoniker": "ejercicio_9_grafo_orden_topologico_backtracking.cpp",
+              "ToolTip": "C:\\Users\\PC\\ADA\\Ejercicios_II_parte\\Back\\ejercicio_9_grafo_orden_topologico_backtracking\\ejercicio_9_grafo_orden_topologico_backtracking.cpp*",
+              "RelativeToolTip": "ejercicio_9_grafo_orden_topologico_backtracking.cpp*",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAUwDcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-29T16:10:46.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
