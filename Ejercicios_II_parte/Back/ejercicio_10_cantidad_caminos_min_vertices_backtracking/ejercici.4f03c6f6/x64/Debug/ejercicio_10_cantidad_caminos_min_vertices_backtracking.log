@@ -1,0 +1,3 @@
+﻿  ejercicio_10_cantidad_caminos_min_vertices_backtracking.cpp
+C:\Users\PC\ADA\Ejercicios_II_parte\Back\ejercicio_10_cantidad_caminos_min_vertices_backtracking\ejercicio_10_cantidad_caminos_min_vertices_backtracking.cpp(10,11): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  ejercicio_10_cantidad_caminos_min_vertices_backtracking.vcxproj -> C:\Users\PC\ADA\Ejercicios_II_parte\Back\ejercicio_10_cantidad_caminos_min_vertices_backtracking\x64\Debug\ejercicio_10_cantidad_caminos_min_vertices_backtracking.exe
